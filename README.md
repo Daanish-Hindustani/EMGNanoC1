@@ -33,6 +33,8 @@ doi: 10.1016/j.compbiomed.2011.10.004.
 9. Su, H., Moeinnia, H., & Kim, W. S. (2023). 3D Printed Electromyography Sensing Systems. Advanced Sensor Research, 2(9). https://doi.org/10.1002/adsr.202300003
 
 10. Rumman, U., Ferdousi, A., Saha, B., Hossain, M. S., Islam, M. J., Ahmad, S., Reaz, M. B. I., & Islam, M. R. (2024). FORS-EMG: A novel sEMG dataset for hand gesture recognition across multiple forearm orientations. arXiv. https://doi.org/10.48550/arXiv.2409.07484
+
+11. Khushaba, R. N., Kodagoda, S., Takruri, M., & Dissanayake, G. (2012). Toward improved control of prosthetic fingers using surface electromyogram (EMG) signals. Expert Systems with Applications, 39(12), 10731–10738. https://doi.org/10.1016/j.eswa.2012.02.192
 ___
 
 ## References
